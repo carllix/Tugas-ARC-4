@@ -1,5 +1,5 @@
 const express = require("express");
-const fs = require("fs").promises; // Using promises version of fs
+const fs = require("fs").promises;
 const app = express();
 const port = 2000;
 
